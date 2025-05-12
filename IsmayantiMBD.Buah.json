@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "682179de958ff81de1f373d1"
+  },
+  "nama_buah": "Apel",
+  "warna": "Merah",
+  "jumlah": "10buah"
+},
+{
+  "_id": {
+    "$oid": "68217a6a958ff81de1f373d2"
+  },
+  "nama_buah": "Pisang",
+  "warna": "Kuning",
+  "jumlah": "15buah"
+},
+{
+  "_id": {
+    "$oid": "68217aa6958ff81de1f373d3"
+  },
+  "nama_buah": "Anggur",
+  "warna": "Ungu",
+  "jumlah": "5buah"
+}]
