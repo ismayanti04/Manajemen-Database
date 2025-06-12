@@ -1,0 +1,1 @@
+db.produk.find({harga: {$gt: 20000}});

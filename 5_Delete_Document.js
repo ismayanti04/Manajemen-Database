@@ -1,0 +1,1 @@
+db.produk.deleteOne({nama: "Kopi Bubuk"});
